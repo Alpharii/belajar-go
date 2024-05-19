@@ -34,6 +34,7 @@ func main() {
 	var floatVal float64 = 255.2293013092389
 	fmt.Println(floatVal)
 	fmt.Printf("Variable is of type: %T \n", floatVal)
+	//float is used in decimal number
 	//float32 (32 bits)
 	//float64 (64 bits) more accurate decimal number
 
